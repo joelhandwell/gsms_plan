@@ -13,8 +13,7 @@ The geographic region can be continent, country, city, etc.
 ### Integration 
 * [Google Apps Admin Settings API](https://developers.google.com/admin-sdk/admin-settings/#audience) can be used to create new email accounts under google apps emails.
 * [weppos/whois](https://github.com/weppos/whois) can be used to query whois info
-* [dnsimple API for getting available tld lists](https://developer.dnsimple.com/v2/tlds/#list)
-* [dnsimple API for registaring domain](https://developer.dnsimple.com/v2/registrar/#register)
+* DNSimple's API for [tld lists](https://developer.dnsimple.com/v2/tlds/#list) and [registaring domain](https://developer.dnsimple.com/v2/registrar/#register) can be used with [dnsimple-ruby](https://github.com/aetrion/dnsimple-ruby)
 
 ## Geographical Statistics
 Making global strategy requires setting priority and selecting specific geographical locations. Various statistics such as poplulation, GDP, number of companies or schools related with a specific industry is essential factor to decide priority.
