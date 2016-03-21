@@ -15,7 +15,7 @@ Making global strategy requires setting priority and selecting specific geograph
 * [GEOJSON](http://geojson.org/geojson-spec.html) with [Java](https://github.com/geotools/geotools/tree/master/modules/unsupported/geojson/src/main/java/org/geotools/geojson), or [PHP](https://github.com/jmikola/geojson)
 
 ## Global Project Management
-Manage projects, its progress, status, assignee
+Manage projects especially (Web Development Projects), its progress, status, assignee
 ### Integration
 * [Taiga](https://taiga.io/) with [its REST API](https://taigaio.github.io/taiga-doc/dist/api.html) and [Docker Containers](https://github.com/benhutchins/docker-taiga-example)
 
