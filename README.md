@@ -19,6 +19,11 @@ Manage projects, its progress, status, assignee
 ### Integration
 * [Taiga](https://taiga.io/) with [its REST API](https://taigaio.github.io/taiga-doc/dist/api.html) and [Docker Containers](https://github.com/benhutchins/docker-taiga-example)
 
+## Global Ticket System
+### Integration
+* [OTRS](https://github.com/OTRS/otrs) [its Javascript API](https://otrs.github.io/doc/api/otrs/6.0/JavaScript/index.html) and [its Docker container](https://github.com/juanluisbaptiste/docker-otrs)
+* [zendesk](https://www.zendesk.com/) with [its API](https://developer.zendesk.com/rest_api/docs/core/introduction)
+
 ## Global Domain management
 For example there is nyc.domain.com, domain.nyc, domain.com/nyc nyc.domain.com can be set as prime, and others can be redirected to prime.
 The geographic region can be continent, country, city, etc.
