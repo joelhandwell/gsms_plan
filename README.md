@@ -1,6 +1,10 @@
 # gsms_plan
 Planing Document for Global Strategy Management System
 
+## Data Vidualization / Dashboard
+* Map view using [Mapbox](https://www.mapbox.com/) and [its open source libs](https://github.com/mapbox)
+* Table View using 
+
 ## User account management
 ### Integration
 * [Google Apps Directory API](https://developers.google.com/admin-sdk/directory/) can be used for create, syncronize users from/to Google Apps
@@ -13,7 +17,7 @@ Making global strategy requires setting priority and selecting specific geograph
 ## Global Project Management
 Manage projects, its progress, status, assignee
 ### Integration
-* [Taiga](https://taiga.io/) with [its REST API](https://taigaio.github.io/taiga-doc/dist/api.html)
+* [Taiga](https://taiga.io/) with [its REST API](https://taigaio.github.io/taiga-doc/dist/api.html) and [Docker Containers](https://github.com/benhutchins/docker-taiga-example)
 
 ## Global Domain management
 For example there is nyc.domain.com, domain.nyc, domain.com/nyc nyc.domain.com can be set as prime, and others can be redirected to prime.
