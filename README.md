@@ -25,3 +25,6 @@ The geographic region can be continent, country, city, etc.
 
 ### Integration 
 * [Google Apps Admin Settings API](https://developers.google.com/admin-sdk/admin-settings/#audience) can be used to create new email accounts under google apps emails.
+
+## Data Input / Data pipeline
+* [huginn](https://github.com/cantino/huginn) can be used for this
