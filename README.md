@@ -3,7 +3,7 @@ Planing Document for Global Strategy Management System
 
 ## Data Vidualization / Dashboard
 * Map view using [Mapbox](https://www.mapbox.com/) and [its open source libs](https://github.com/mapbox)
-* Table View using 
+* Table View using [handsontable](https://github.com/handsontable/handsontable)
 
 ## User account management
 ### Integration
