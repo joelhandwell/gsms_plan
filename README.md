@@ -19,6 +19,7 @@ The geographic region can be continent, country, city, etc.
 Making global strategy requires setting priority and selecting specific geographical locations. Various statistics such as poplulation, GDP, number of companies or schools related with a specific industry is essential factor to decide priority.
 ### Data Format
 * [GEOJSON](http://geojson.org/geojson-spec.html) with [Java](https://github.com/geotools/geotools/tree/master/modules/unsupported/geojson/src/main/java/org/geotools/geojson), or [PHP](https://github.com/jmikola/geojson)
+
 ### Data Source
 * [World Bank Data API](http://data.worldbank.org/developers)
 
