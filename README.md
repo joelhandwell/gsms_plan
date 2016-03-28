@@ -35,6 +35,9 @@ Manage projects especially (Web Development Projects), its progress, status, ass
 * [OTRS](https://github.com/OTRS/otrs) [its Javascript API](https://otrs.github.io/doc/api/otrs/6.0/JavaScript/index.html) and [its Docker container](https://github.com/juanluisbaptiste/docker-otrs)
 * [zendesk](https://www.zendesk.com/) with [its API](https://developer.zendesk.com/rest_api/docs/core/introduction)
 
+## Translation Management System
+* [zanata](http://zanata.org/) and [zanata api](https://zanata.ci.cloudbees.com/job/zanata-api-site/site/zanata-common-api/rest-api-docs/index.html)
+* [fake-zanata-server](https://www.npmjs.com/package/fake-zanata-server)
 
 ## User account management
 Users of this software can be CEO, CFO, Sysadmins, Programmers, Designers, Contents Creators, and Translators.
