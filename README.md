@@ -1,5 +1,8 @@
 # gsms_plan
-Planing Document for Global Strategy Management System
+Planing Document for Global Strategy Management System - GSMS
+
+## Background
+[As of 2012, at least 16 International Organizations such as World Bank or UNICEF are using SAP as their ERP system](https://www.ctbto.org/service/expert-area/core/interesting-facts-about-the-erp-project/). But there is other orgs not having budget big enough to purchase SAP but still need ERP for international operation. Open source ERP is usually focusing on small or middle sized business and not sutable for global organization with presence in multiple countires. GSMS project will [challenge to implement](http://panorama-consulting.com/challenges-with-international-erp-implementations/) open source global ERP to fill the gap.
 
 ## Data Vidualization / Dashboard
 * Map view using [Mapbox](https://www.mapbox.com/) and [its open source libs](https://github.com/mapbox)
